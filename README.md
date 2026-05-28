@@ -220,7 +220,7 @@ Demo en Vivo: [Página Web](https://aeiou520814-del.github.io/abc/)
 
 ---
 
-## Sistema de Información — Dirección de Obras Públicas de Temascaltepec
+## Proyecto 5: Sistema de Información — Dirección de Obras Públicas de Temascaltepec
 
 Sistema web de gestión integral para la administración, supervisión y transparencia de la infraestructura pública del H. Ayuntamiento de Temascaltepec, Estado de México. Permite el control total del ciclo de vida de una obra: desde la planeación presupuestal hasta la entrega final.
 
@@ -339,7 +339,7 @@ backend/
 
 ### 🔗 Enlaces
 * **Código Fuente:** [Repositorio en GitHub](https://github.com/Urigc/Obras_publicas/tree/TestDefinitivo)
-* **Demo en Vivo (GitHub Pages):[Página](https://urigc.github.io/Obras_publicas/)
+* **Demo en Vivo (GitHub Pages):** [Página](https://urigc.github.io/Obras_publicas/)
 
 
 ---
